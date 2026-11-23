@@ -1,7 +1,7 @@
 # Hi, I'm Alex 👋
 
 - 🎓 学生 / 独立开发者
-- 🔭 正在做：（填你最想展示的项目，例如一个 Android App、一个游戏工具）
+- 🔭 正在做：流放之路（Path of Exile）通牒／贪婪辅助工具 —— 画面识别模块已公开：[poe-ultimatum-vision](https://github.com/Alex199109/poe-ultimatum-vision)
 - 🌱 正在学习：AI 应用、移动端开发
 
 ## ⚡ 支持我
